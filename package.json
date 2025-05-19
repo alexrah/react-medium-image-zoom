@@ -1,6 +1,6 @@
 {
-  "name": "react-medium-image-zoom",
-  "version": "5.2.14",
+  "name": "@alexrah/react-medium-image-zoom",
+  "version": "5.3.0",
   "license": "BSD-3-Clause",
   "description": "Accessible medium.com-style image zoom for React",
   "type": "module",
@@ -12,10 +12,10 @@
   "types": "./dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/rpearce/react-medium-image-zoom.git"
+    "url": "git+ssh://git@github.com/alexrah/react-medium-image-zoom.git"
   },
-  "homepage": "https://github.com/rpearce/react-medium-image-zoom",
-  "bugs": "https://github.com/rpearce/react-medium-image-zoom/issues",
+  "homepage": "https://github.com/alexrah/react-medium-image-zoom",
+  "bugs": "https://github.com/alexrah/react-medium-image-zoom/issues",
   "author": "Robert Pearce <me@robertwpearce.com> (https://robertwpearce.com)",
   "contributors": [
     "Robert Pearce <me@robertwpearce.com> (https://robertwpearce.com)",
@@ -35,7 +35,8 @@
     "Yida Zhang <zjhch123@qq.com>",
     "eych",
     "tshmieldev",
-    "David Edler (https://github.com/edlerd)"
+    "David Edler (https://github.com/edlerd)",
+    "Alessandro Stoppato <alexrah@gmail.com>"
   ],
   "funding": [
     {

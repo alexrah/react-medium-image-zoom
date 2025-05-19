@@ -2,6 +2,10 @@
 
 [![npm version](https://img.shields.io/npm/v/react-medium-image-zoom.svg)](https://www.npmjs.com/package/react-medium-image-zoom) [![react-medium-image-zoom bundlejs badge](https://deno.bundlejs.com/?q=react-medium-image-zoom&badge=&config={%22esbuild%22:{%22external%22:[%22react%22,%22react-dom%22]}})](https://bundlejs.com/?q=react-medium-image-zoom) [![npm downloads](https://img.shields.io/npm/dm/react-medium-image-zoom.svg)](https://www.npmjs.com/package/react-medium-image-zoom) [![All Contributors](https://img.shields.io/badge/all_contributors-89-orange.svg)](#contributors-)
 
+## Disclaimer
+this package is a fork of [react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom/) with added functionality waiting to be merged in upstream.
+see pull requests for more details: https://github.com/rpearce/react-medium-image-zoom/pull/883
+
 The original [medium.com-inspired image zooming](https://medium.design/image-zoom-on-medium-24d146fc0c20)
 library for [React](https://reactjs.org).
 
